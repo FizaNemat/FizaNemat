@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Fiza Nemat 👋
 
-<!--
-**FizaNemat/FizaNemat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Web Developer
+🎓 BS Software Engineering Student at Virtual University of Pakistan
+⚛️ Learning React.js and modern frontend development
+🌱 Passionate about responsive and user-friendly web design
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Bootstrap
+* Git & GitHub
+
+## Current Goals
+
+* Build professional frontend projects
+* Improve React.js skills
+* Get a frontend developer job
+
+## Connect With Me
