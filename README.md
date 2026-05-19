@@ -1,4 +1,4 @@
-# Hi, I'm Fiza Nemat 👋
+# 🚀 Code & Creativity by Fiza
 
 💻 Frontend Web Developer
 🎓 BS Software Engineering Student at Virtual University of Pakistan
@@ -16,9 +16,10 @@
 
 ## Current Goals
 
-* Build professional frontend projects
-* Improve React.js skills
-* Get a frontend developer job
+* 🚀 Building professional frontend and responsive web projects
+* ⚛️ Deep diving into React.js advanced concepts and hooks
+* 🌐 Expanding into Backend Development (Learning Python & Django)
+* 💼 Looking for a Frontend Developer Job / Internship
 
 ## Connect With Me
-* GitHub: github.com/FizaNemat
+* 💼 **GitHub:** [github.com/FizaNemat](https://github.com/FizaNemat)
