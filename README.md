@@ -1,8 +1,7 @@
 # 🚀 Code & Creativity by Fiza
 
 💻 Frontend Web Developer
-🎓 BS Software Engineering Student at Virtual University of Pakistan
-⚛️ Learning React.js and modern frontend development
+⚛️ React.js Enthusiast & Modern Web Technologies Explorer
 🌱 Passionate about responsive and user-friendly web design
 
 ## Skills
@@ -19,7 +18,9 @@
 * 🚀 Building professional frontend and responsive web projects
 * ⚛️ Deep diving into React.js advanced concepts and hooks
 * 🌐 Expanding into Backend Development (Learning Python & Django)
-* 💼 Looking for a Frontend Developer Job / Internship
+* 💼 Looking for Frontend Developer opportunities and internships
 
 ## Connect With Me
-* 💼 **GitHub:** [github.com/FizaNemat](https://github.com/FizaNemat)
+
+* 💼 GitHub: https://github.com/FizaNemat
+* 🔗 LinkedIn: https://www.linkedin.com/in/fiza-nemat/
